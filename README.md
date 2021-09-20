@@ -37,4 +37,4 @@ Data Science Portfolio
 * I have used Random Forest Regressor, Decision Tree Regressor and XGB Regressor to reach the best model.
 
 ![](/images/Sales.jpg)
-![](/main/images/SecondSales.jpg)
+![](/images/SecondSales.jpg)
