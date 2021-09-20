@@ -9,7 +9,7 @@ Data Science Portfolio
 * Help us to cope up with weather unpredicability.
 * I have used K-Means Clustering and Logestic Regression to reach the best model.
 
-![alt text](/images/Agriculture Project Rainfall.jpg)
+![](/images/Agriculture Project Rainfall.jpg)
 
 # [Project 2: Can Customer Payback the Loan Prediction Model: Project Overview](https://github.com/omkargawade-10/Can_Customer_Payback_the_Loan_Prediction_Model)
 * Created a tool that suggest the borrower will pay back their loan or not.
