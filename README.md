@@ -9,7 +9,7 @@ Data Science Portfolio
 * Help us to cope up with weather unpredicability.
 * I have used K-Means Clustering and Logestic Regression to reach the best model.
 
-![]()
+![](/images/AgricultureProjectRainfall.jpg)
 
 # [Project 2: Can Customer Payback the Loan Prediction Model: Project Overview](https://github.com/omkargawade-10/Can_Customer_Payback_the_Loan_Prediction_Model)
 * Created a tool that suggest the borrower will pay back their loan or not.
@@ -17,7 +17,7 @@ Data Science Portfolio
 * This way in the future when we get a new potential customer we can assess whether or not they are likely to pay back the loan.
 * I have used Tensorflow, Keras and Deep Learning to reach the best model.
 
-![]()
+![](/images/LoanStatus.jpg)
 
 # [Project 3: Titanic Disaster Survival: Project Overview](https://github.com/omkargawade-10/Titanic_Disaster_Survival)
 * Created a tool that predicts which passengers survived the Titanic shipwreck.
@@ -25,7 +25,7 @@ Data Science Portfolio
 * In this we have build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-         economic class, etc).
 * I have used Logestic Regression to reach the best model.
 
-![]()
+![](/images/TitanicSurvived.jpg)
 
 # [Project 4: Supplement Sales Predictions: Project Overview](https://github.com/omkargawade-10/Supplement_Sales_Predictions)
 * Created a tool that predicts the store sales for each store for the next two months.
@@ -36,5 +36,5 @@ Data Science Portfolio
 * Our task is to predict the store sales for each store in the test set for the next two months.
 * I have used Random Forest Regressor, Decision Tree Regressor and XGB Regressor to reach the best model.
 
-![]()
-![]()
+![](/images/Sales.jpg)
+![](/main/images/SecondSales.jpg)
