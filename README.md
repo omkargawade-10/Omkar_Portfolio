@@ -17,11 +17,15 @@ Data Science Portfolio
 * This way in the future when we get a new potential customer we can assess whether or not they are likely to pay back the loan.
 * I have used Tensorflow, Keras and Deep Learning to reach the best model.
 
+![](https://github.com/omkargawade-10/Omkar_Portfolio/blob/main/images/Loan%20Status.jpg)
+
 # [Project 3: Titanic Disaster Survival: Project Overview](https://github.com/omkargawade-10/Titanic_Disaster_Survival)
 * Created a tool that predicts which passengers survived the Titanic shipwreck.
 * On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats     for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
 * In this we have build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-         economic class, etc).
 * I have used Logestic Regression to reach the best model.
+
+![](https://github.com/omkargawade-10/Omkar_Portfolio/blob/main/images/Titanic%20Survived.jpg)
 
 # [Project 4: Supplement Sales Predictions: Project Overview](https://github.com/omkargawade-10/Supplement_Sales_Predictions)
 * Created a tool that predicts the store sales for each store for the next two months.
@@ -31,3 +35,6 @@ Data Science Portfolio
 * Sales data for 18 months from 365 stores of WOMart is available along with information on Store Type, Location Type for each store, Region Code for every store, Discount           provided by the store on every day, Number of Orders everyday etc.
 * Our task is to predict the store sales for each store in the test set for the next two months.
 * I have used Random Forest Regressor, Decision Tree Regressor and XGB Regressor to reach the best model.
+
+![](https://github.com/omkargawade-10/Omkar_Portfolio/blob/main/images/Sales.jpg)
+![](https://github.com/omkargawade-10/Omkar_Portfolio/blob/main/images/Second%20Sales.jpg)
