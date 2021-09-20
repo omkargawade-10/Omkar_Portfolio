@@ -9,6 +9,8 @@ Data Science Portfolio
 * Help us to cope up with weather unpredicability.
 * I have used K-Means Clustering and Logestic Regression to reach the best model.
 
+![alt text](/images/Agriculture Project Rainfall.jpg)
+
 # [Project 2: Can Customer Payback the Loan Prediction Model: Project Overview](https://github.com/omkargawade-10/Can_Customer_Payback_the_Loan_Prediction_Model)
 * Created a tool that suggest the borrower will pay back their loan or not.
 * Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), can we build a model that can predict wether or nor a borrower     will pay back their loan?
